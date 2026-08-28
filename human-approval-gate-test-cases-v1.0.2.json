@@ -1,11 +1,11 @@
 {
   "dataset": "Human Approval Gate Synthetic Test Cases",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "status": "published",
   "author": "Keith Staggers, MS, RN-BC",
   "license": "CC-BY-4.0",
   "created": "2026-08-21",
-  "published": "2026-08-23",
+  "published": "2026-08-28",
   "synthetic_data_only": true,
   "cases": [
     {

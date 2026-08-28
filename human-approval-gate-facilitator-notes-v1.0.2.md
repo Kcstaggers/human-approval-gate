@@ -1,8 +1,11 @@
 # Human Approval Gate facilitator notes
 
-Status: published Version 1.0.1
+Status: published Version 1.0.2
 
-Published: 2026-08-23
+Published: 2026-08-28
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)  
+https://creativecommons.org/licenses/by/4.0/
 
 ## Session
 

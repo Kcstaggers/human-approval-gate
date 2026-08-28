@@ -1,7 +1,7 @@
-Human Approval Gate Kit Version 1.0.1
+Human Approval Gate Kit Version 1.0.2
 Copyright 2026 Keith Staggers
 
-This Version 1.0.1 release is licensed under the Creative Commons Attribution 4.0 International license.
+This Version 1.0.2 release is licensed under the Creative Commons Attribution 4.0 International license.
 
 License: https://creativecommons.org/licenses/by/4.0/
 

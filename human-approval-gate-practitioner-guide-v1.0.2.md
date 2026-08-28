@@ -2,11 +2,14 @@
 
 ## A practical guide to keeping a person at the decision point in AI-assisted work
 
-Version 1.0.1
+Version 1.0.2
 
-Keith Staggers, MS, RN-BC\
-Nurse Leader and AI Trainer, Keith Staggers Studio\
+Keith Staggers, MS, RN-BC  
+Nurse Leader and AI Trainer, Keith Staggers Studio  
 https://www.keithstaggers.com/
+
+Licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).  
+https://creativecommons.org/licenses/by/4.0/
 
 ## Direct answer
 
@@ -216,8 +219,8 @@ These sources inform the risk, governance, privacy, and oversight principles in 
 
 ## Suggested citation
 
-Staggers K. *The Human Approval Gate: A Practical Guide to Keeping a Person at the Decision Point in AI-Assisted Work*. Version 1.0.1. Keith Staggers Studio; 2026. https://www.keithstaggers.com/human-approval-gate/
+Staggers K. *The Human Approval Gate: A Practical Guide to Keeping a Person at the Decision Point in AI-Assisted Work*. Version 1.0.2. Keith Staggers Studio; 2026. https://www.keithstaggers.com/human-approval-gate/
 
 ## License
 
-This Version 1.0.1 release is licensed under the Creative Commons Attribution 4.0 International license. See LICENSE.txt for the attribution notice and license link. Third-party source material remains subject to its original terms.
+This Version 1.0.2 release is licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/. See LICENSE.txt for the attribution notice. Third-party source material remains subject to its original terms.

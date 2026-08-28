@@ -1,8 +1,8 @@
 # Human Approval Gate Kit
 
-Version 1.0.1
+Version 1.0.2
 
-Published: August 23, 2026
+Published: August 28, 2026
 
 The Human Approval Gate Kit helps leaders, educators, operators, and small teams define what a person must check before AI-assisted work can affect a real decision or action.
 
@@ -16,19 +16,19 @@ It replaces vague instructions such as "a human will review it" with five observ
 
 ## Start here
 
-1. Read `human-approval-gate-practitioner-guide-v1.0.1.pdf` or the matching Markdown source.
-2. Print `human-approval-gate-worksheet-v1.0.1.pdf` for a workflow design or review session.
-3. Use `human-approval-gate-facilitator-notes-v1.0.1.md` for a 30-minute synthetic exercise.
+1. Read `human-approval-gate-practitioner-guide-v1.0.2.pdf` or the matching Markdown source.
+2. Print `human-approval-gate-worksheet-v1.0.2.pdf` for a workflow design or review session.
+3. Use `human-approval-gate-facilitator-notes-v1.0.2.md` for a 30-minute synthetic exercise.
 4. Test the proposed control against the ten synthetic cases in CSV or JSON.
 5. Verify the release files with `SHA256SUMS.txt`.
 
-The complete downloadable package is `human-approval-gate-kit-v1.0.1.zip`.
+The complete downloadable package is `human-approval-gate-kit-v1.0.2.zip`.
 
-## What changed in Version 1.0.1
+## What changed in Version 1.0.2
 
-Version 1.0.1 replaces stale candidate-era wording in the practitioner guide with the active CC BY 4.0 license notice and canonical citation URL. It also removes a voluntary production-method note from the guide and expands the worksheet writing areas to use the full printable landscape page. The method, responsible-use limits, public source foundation, synthetic example, worksheet fields and decision logic, facilitator exercise, and ten synthetic test cases are unchanged.
+Version 1.0.2 makes the existing CC BY 4.0 license visible where a reviewer first encounters each resource. The practitioner guide now carries the full license name and canonical license link on its cover. The worksheet carries the attribution and license link on its only page. The guide source and facilitator notes show the same notice near the top. The method, responsible-use limits, public source foundation, synthetic example, worksheet fields and decision logic, facilitator exercise, and ten synthetic test cases are unchanged.
 
-The original public Version 1.0 files remain preserved at the canonical website. Version 1.0.1 is a separate patch release and does not silently replace those files.
+The public Version 1.0 and Version 1.0.1 files remain preserved. Version 1.0.2 is a separate patch release and does not silently replace either release.
 
 ## Responsible-use boundary
 
@@ -38,8 +38,8 @@ Adapt the kit to the laws, policies, contracts, professional duties, privacy rul
 
 ## Release identity
 
-- Version: `1.0.1`
-- Publication date: `2026-08-23`
+- Version: `1.0.2`
+- Publication date: `2026-08-28`
 - Author: Keith Staggers, MS, RN-BC
 - Publisher: Keith Staggers Studio
 - Canonical page: https://www.keithstaggers.com/human-approval-gate/
@@ -48,10 +48,10 @@ Adapt the kit to the laws, policies, contracts, professional duties, privacy rul
 
 ## Citation
 
-Staggers K. *The Human Approval Gate: A Practical Guide to Keeping a Person at the Decision Point in AI-Assisted Work*. Version 1.0.1. Keith Staggers Studio; 2026. https://www.keithstaggers.com/human-approval-gate/
+Staggers K. *The Human Approval Gate: A Practical Guide to Keeping a Person at the Decision Point in AI-Assisted Work*. Version 1.0.2. Keith Staggers Studio; 2026. https://www.keithstaggers.com/human-approval-gate/
 
 Machine-readable citation metadata is available in `CITATION.cff`. Cite the canonical URL until a DOI exists.
 
 ## License
 
-The Version 1.0.1 release files are licensed under the Creative Commons Attribution 4.0 International license. See `LICENSE.txt` for the attribution notice and license link. Third-party source material remains subject to its original terms and is not relicensed by the kit's notice.
+The Version 1.0.2 release files are licensed under the Creative Commons Attribution 4.0 International license. See `LICENSE.txt` for the attribution notice and license link. Third-party source material remains subject to its original terms and is not relicensed by the kit's notice.

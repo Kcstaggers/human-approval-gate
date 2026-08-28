@@ -1,13 +1,13 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://www.keithstaggers.com/resources/human-approval-gate/v1.0.1/human-approval-gate-test-cases-v1.0.1.schema.json",
+  "$id": "https://www.keithstaggers.com/resources/human-approval-gate/v1.0.2/human-approval-gate-test-cases-v1.0.2.schema.json",
   "title": "Human Approval Gate Synthetic Test Cases",
   "type": "object",
   "required": ["dataset", "version", "status", "author", "license", "created", "published", "synthetic_data_only", "cases"],
   "properties": {
     "dataset": { "type": "string" },
-    "version": { "type": "string" },
-    "status": { "type": "string" },
+    "version": { "type": "string", "const": "1.0.2" },
+    "status": { "type": "string", "const": "published" },
     "author": { "type": "string" },
     "license": { "type": "string", "const": "CC-BY-4.0" },
     "created": { "type": "string", "format": "date" },
