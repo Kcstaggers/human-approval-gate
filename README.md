@@ -44,13 +44,14 @@ Adapt the kit to the laws, policies, contracts, professional duties, privacy rul
 - Publisher: Keith Staggers Studio
 - Canonical page: https://www.keithstaggers.com/human-approval-gate/
 - License: Creative Commons Attribution 4.0 International
-- DOI: not assigned
+- Version DOI: https://doi.org/10.5281/zenodo.22145298
+- All-versions DOI: https://doi.org/10.5281/zenodo.22069659
 
 ## Citation
 
-Staggers K. *The Human Approval Gate: A Practical Guide to Keeping a Person at the Decision Point in AI-Assisted Work*. Version 1.0.2. Keith Staggers Studio; 2026. https://www.keithstaggers.com/human-approval-gate/
+Staggers K. *The Human Approval Gate: A Practical Guide to Keeping a Person at the Decision Point in AI-Assisted Work*. Version 1.0.2. Keith Staggers Studio; 2026. https://doi.org/10.5281/zenodo.22145298
 
-Machine-readable citation metadata is available in `CITATION.cff`. Cite the canonical URL until a DOI exists.
+Machine-readable citation metadata is available in `CITATION.cff`. Use the Version DOI for this exact release, the all-versions DOI for the complete version history, and the canonical page for the current access route.
 
 ## License
 

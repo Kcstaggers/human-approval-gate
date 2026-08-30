@@ -10,6 +10,7 @@ authors:
 publisher: Keith Staggers Studio
 date-released: 2026-08-28
 url: "https://www.keithstaggers.com/human-approval-gate/"
+doi: "10.5281/zenodo.22145298"
 abstract: "A practical guide, worksheet, facilitator plan, and synthetic test set for defining a human approval gate in AI-assisted workflows."
 keywords:
   - artificial intelligence

@@ -6,7 +6,8 @@
   "prepared": "2026-08-28",
   "published": "2026-08-28",
   "license": "CC-BY-4.0",
-  "doi": null,
+  "doi": "10.5281/zenodo.22145298",
+  "concept_doi": "10.5281/zenodo.22069659",
   "synthetic_data_only": true,
   "files": [
     "human-approval-gate-practitioner-guide-v1.0.2.pdf",
