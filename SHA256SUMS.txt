@@ -1,4 +1,4 @@
-bb3ab24a17a17af624409f74f9d8f05db4080694941f318073f8d1520b576872  CITATION.cff
+f14ac0ca5a4b69162cfa0d7f6c117152ab27328202b9375504ff99b401ae8eba  CITATION.cff
 db5bbb44af81cc23ae8525ad1c55d1a4985d371cf5ff5c43184968f2bd7adc05  LICENSE.txt
 85d47e52a1a6b724033bfcfb370df79c1f5a7a51151187edde3b0b9552bad238  human-approval-gate-facilitator-notes-v1.0.2.md
 da05d5225b3ddcc1930bed0e1fc02e878a09edbdde54720a8fc940e809cdf8a6  human-approval-gate-practitioner-guide-v1.0.2.md
@@ -7,4 +7,4 @@ d7b84b2eaf492e4ed712816a5efafff0dc9cec961fe0c8336987f41bfd3be80d  human-approval
 81ece19ada73d853e5868a2f7a41e6d71892f29b7189066d0ce48a5500328850  human-approval-gate-test-cases-v1.0.2.json
 3a5aee21da77e2da15e6cae0cfb9f761790c15795958739f82c4ca8654e7ea2e  human-approval-gate-test-cases-v1.0.2.schema.json
 3feba5b725ec33cd1846c16c9df882b1e98d7e573c87a1da7314dde2596e98cc  human-approval-gate-worksheet-v1.0.2.pdf
-7297f71fe4c7d761bcdfc03e42555886d1ee6a1e3b88ac47636ef3a5ee95c65e  release-manifest.json
+787001e73829422eaebcfeb8c335d4a6c60600808af29fb2a2f4cf1f3e39f9da  release-manifest.json
